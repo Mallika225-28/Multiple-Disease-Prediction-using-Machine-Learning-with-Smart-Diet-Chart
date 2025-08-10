@@ -47,18 +47,26 @@
 ### 📂 Project Structure
 ```
 Multiple Disease Prediction using Machine Learning with Smart Diet Chart 
-├── static    
-│   ├── cs
-│   │   ├── style.css
+├── static/ #frontend static files 
+│   ├── cs/ #stylesheets
+│   │   ├── style.css 
 |   |   ├── style1.css
-|   |   ├── style2.css
-│   ├── images
-|   |   ├──
-│   ├── js
-│   │   ├── 
-│   
-
-
+|   |   └── style2.css
+│   ├── images/
+|   |   └── ... # all images & icons
+│   ├── js/  # javascript script
+│   │   └── script.js
+├── templates/                   #HTML templates for frontend 
+|   ├── home.html                    # Home page 
+|   ├── health.html                  # Disease Prediction page
+|   ├── nutrition.html               # Page where user can provide their own nutrition/diet recommendation
+|   └── diet-chart.html              # Displays generated diet chart based on prediction
+|
+├── app.py          # Main Flask application
+├── model1.pkl      # for predict Heart Disease 
+├── model2.pkl      # for predict Diabetes 
+├── model3.pkl      # for predict Dengue
+└── README.me       # Project documentation
 ```
 
 ### 📂 Workflow
