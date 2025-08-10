@@ -44,6 +44,22 @@
 ### 4. Backend Integration
 
   - Flask API connects the trained ML model to the frontend, enabling real-time prediction.
+### 📂 Project Structure
+```
+Multiple Disease Prediction using Machine Learning with Smart Diet Chart 
+├── static    
+│   ├── cs
+│   │   ├── style.css
+|   |   ├── style1.css
+|   |   ├── style2.css
+│   ├── images
+|   |   ├──
+│   ├── js
+│   │   ├── 
+│   
+
+
+```
 
 ### 📂 Workflow
   **1. User Input**→ The user enters health-related data through the web form.
@@ -53,3 +69,5 @@
    **3. Prediction** → ML model (Scikit-learn) predicts the probability of a disease.
 
    **4. Diet Chart Generation** → Based on user input, a suitable diet plan is displayed.
+
+
