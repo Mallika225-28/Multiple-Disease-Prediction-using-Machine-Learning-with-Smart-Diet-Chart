@@ -56,7 +56,7 @@ Multiple Disease Prediction using Machine Learning with Smart Diet Chart
 |   |   └── ... # all images & icons
 │   ├── js/  # javascript script
 │   │   └── script.js
-├── templates/                   #HTML templates for frontend 
+├── templates/                   
 |   ├── home.html                    # Home page 
 |   ├── health.html                  # Disease Prediction page
 |   ├── nutrition.html               # Page where user can provide their own nutrition/diet recommendation
