@@ -47,14 +47,14 @@
 ### 📂 Project Structure
 ```
 Multiple Disease Prediction using Machine Learning with Smart Diet Chart 
-├── static/   # frontend static files 
-│   ├── cs/    # stylesheets
+├── static/        # frontend static files 
+│   ├── cs/        # stylesheets
 │   │   ├── style.css 
 |   |   ├── style1.css
 |   |   └── style2.css
 │   ├── images/
-|   |   └── ... # all images & icons
-│   ├── js/  # javascript script
+|   |   └── ...    # all images & icons
+│   ├── js/        # javascript script
 │   │   └── script.js
 ├── templates/                   
 |   ├── home.html                    # Home page 
